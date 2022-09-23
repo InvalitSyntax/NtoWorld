@@ -1,7 +1,7 @@
 # NtoWorld
 using if u dont need launch and map:
->curl https://github.com/InvalitSyntax/NtoWorld/blob/main/worldDownloadNoLaunch.sh | bash
+>curl https://raw.githubusercontent.com/InvalitSyntax/NtoWorld/main/worldDownloadNoLaunch.sh | bash
 
 
 using if u NEED launch and map:
->curl https://github.com/InvalitSyntax/NtoWorld/blob/main/worldDownloadAll.sh | bash
+>curl https://raw.githubusercontent.com/InvalitSyntax/NtoWorld/main/worldDownloadAll.sh | bash
