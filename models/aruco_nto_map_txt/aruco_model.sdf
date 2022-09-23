@@ -1,0 +1,333 @@
+
+<?xml version="1.0"?>
+<sdf version="1.5">
+    <model name="aruco_2_19">
+        <static>true</static>
+        <link name="aruco_2_19_link">
+            
+<visual name="visual_marker_2_143">
+    <pose>0.0 0.0 0.0 0.0 0.0 1.5707963267948966</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_nto_map_txt/materials/scripts</uri>
+            <uri>model://aruco_nto_map_txt/materials/textures</uri>
+            <name>aruco/marker_2_143</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_142">
+    <pose>1.0 0.0 0.0 0.0 0.0 1.5707963267948966</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_nto_map_txt/materials/scripts</uri>
+            <uri>model://aruco_nto_map_txt/materials/textures</uri>
+            <name>aruco/marker_2_142</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_147">
+    <pose>2.0 0.0 0.0 0.0 0.0 1.5707963267948966</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_nto_map_txt/materials/scripts</uri>
+            <uri>model://aruco_nto_map_txt/materials/textures</uri>
+            <name>aruco/marker_2_147</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_128">
+    <pose>3.0 0.0 0.0 0.0 0.0 1.5707963267948966</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_nto_map_txt/materials/scripts</uri>
+            <uri>model://aruco_nto_map_txt/materials/textures</uri>
+            <name>aruco/marker_2_128</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_144">
+    <pose>0.0 1.0 0.0 0.0 0.0 1.5707963267948966</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_nto_map_txt/materials/scripts</uri>
+            <uri>model://aruco_nto_map_txt/materials/textures</uri>
+            <name>aruco/marker_2_144</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_157">
+    <pose>1.0 1.0 0.0 0.0 0.0 1.5707963267948966</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_nto_map_txt/materials/scripts</uri>
+            <uri>model://aruco_nto_map_txt/materials/textures</uri>
+            <name>aruco/marker_2_157</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_158">
+    <pose>2.0 1.0 0.0 0.0 0.0 1.5707963267948966</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_nto_map_txt/materials/scripts</uri>
+            <uri>model://aruco_nto_map_txt/materials/textures</uri>
+            <name>aruco/marker_2_158</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_125">
+    <pose>3.0 1.0 0.0 0.0 0.0 1.5707963267948966</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_nto_map_txt/materials/scripts</uri>
+            <uri>model://aruco_nto_map_txt/materials/textures</uri>
+            <name>aruco/marker_2_125</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_145">
+    <pose>0.0 2.0 0.0 0.0 0.0 1.5707963267948966</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_nto_map_txt/materials/scripts</uri>
+            <uri>model://aruco_nto_map_txt/materials/textures</uri>
+            <name>aruco/marker_2_145</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_146">
+    <pose>1.0 2.0 0.0 0.0 0.0 1.5707963267948966</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_nto_map_txt/materials/scripts</uri>
+            <uri>model://aruco_nto_map_txt/materials/textures</uri>
+            <name>aruco/marker_2_146</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_127">
+    <pose>2.0 2.0 0.0 0.0 0.0 1.5707963267948966</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_nto_map_txt/materials/scripts</uri>
+            <uri>model://aruco_nto_map_txt/materials/textures</uri>
+            <name>aruco/marker_2_127</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_126">
+    <pose>3.0 2.0 0.0 0.0 0.0 1.5707963267948966</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_nto_map_txt/materials/scripts</uri>
+            <uri>model://aruco_nto_map_txt/materials/textures</uri>
+            <name>aruco/marker_2_126</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_138">
+    <pose>0.0 3.0 0.0 0.0 0.0 1.5707963267948966</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_nto_map_txt/materials/scripts</uri>
+            <uri>model://aruco_nto_map_txt/materials/textures</uri>
+            <name>aruco/marker_2_138</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_160">
+    <pose>2.0 3.0 0.0 0.0 0.0 1.5707963267948966</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_nto_map_txt/materials/scripts</uri>
+            <uri>model://aruco_nto_map_txt/materials/textures</uri>
+            <name>aruco/marker_2_160</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_155">
+    <pose>3.0 3.0 0.0 0.0 0.0 1.5707963267948966</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_nto_map_txt/materials/scripts</uri>
+            <uri>model://aruco_nto_map_txt/materials/textures</uri>
+            <name>aruco/marker_2_155</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_139">
+    <pose>0.0 4.0 0.0 0.0 0.0 1.5707963267948966</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_nto_map_txt/materials/scripts</uri>
+            <uri>model://aruco_nto_map_txt/materials/textures</uri>
+            <name>aruco/marker_2_139</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_148">
+    <pose>1.0 4.0 0.0 0.0 0.0 1.5707963267948966</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_nto_map_txt/materials/scripts</uri>
+            <uri>model://aruco_nto_map_txt/materials/textures</uri>
+            <name>aruco/marker_2_148</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_156">
+    <pose>2.0 4.0 0.0 0.0 0.0 1.5707963267948966</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_nto_map_txt/materials/scripts</uri>
+            <uri>model://aruco_nto_map_txt/materials/textures</uri>
+            <name>aruco/marker_2_156</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_159">
+    <pose>3.0 4.0 0.0 0.0 0.0 1.5707963267948966</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_nto_map_txt/materials/scripts</uri>
+            <uri>model://aruco_nto_map_txt/materials/textures</uri>
+            <name>aruco/marker_2_159</name>
+        </script>
+    </material>
+</visual>
+
+        </link>
+    </model>
+</sdf>
