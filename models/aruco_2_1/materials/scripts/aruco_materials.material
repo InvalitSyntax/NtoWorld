@@ -5,6 +5,9 @@ material aruco/marker_2_1
     {
         pass
         {
+            scene_blend alpha_blend
+            depth_wite off
+
             texture_unit
             {
                 texture aruco_marker_2_1.png
